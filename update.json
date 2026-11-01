@@ -1,0 +1,16 @@
+{
+    "Version":  1,
+    "Releases":  [
+                     {
+                         "Version":  "1.0.2",
+                         "Channel":  "Stable",
+                         "PublishedAt":  "2026-11-01T07:43:06.1773008+00:00",
+                         "DownloadUrl":  "https://github.com/zy-zmc/tianyan-novel-ai-writer/releases/download/v1.0.2/TianYan-1.0.2-Setup.exe",
+                         "NotesUrl":  "https://github.com/zy-zmc/tianyan-novel-ai-writer/releases/tag/v1.0.2",
+                         "Notes":  "",
+                         "Sha256":  "A22AB65012CB354520B7F2AD3D6870A207DA18B76F44D60667C290A1441FBFEE",
+                         "Bytes":  145853993,
+                         "Mandatory":  false
+                     }
+                 ]
+}
