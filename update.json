@@ -2,14 +2,14 @@
     "Version":  1,
     "Releases":  [
                      {
-                         "Version":  "1.0.4",
+                         "Version":  "1.0.6",
                          "Channel":  "Stable",
-                         "PublishedAt":  "2026-11-02T14:00:10.1209825+00:00",
-                         "DownloadUrl":  "https://github.com/zy-zmc/tianyan-novel-ai-writer/releases/download/v1.0.4/TianYan-1.0.4-Setup.exe",
-                         "NotesUrl":  "https://github.com/zy-zmc/tianyan-novel-ai-writer/releases/tag/v1.0.4",
+                         "PublishedAt":  "2026-11-03T08:26:30.1948963+00:00",
+                         "DownloadUrl":  "https://github.com/zy-zmc/tianyan-novel-ai-writer/releases/download/v1.0.6/TianYan-1.0.6-Setup.exe",
+                         "NotesUrl":  "https://github.com/zy-zmc/tianyan-novel-ai-writer/releases/tag/v1.0.6",
                          "Notes":  "",
-                         "Sha256":  "D29E7F651D02AFC872B09E4578AEA94C01D021321C629F5CA1783A5D3043CF84",
-                         "Bytes":  145922876,
+                         "Sha256":  "46C05ACF7E00A1F4B4FAFB9960EA0F8B7C5EA2DA7783C5B718F9E767610D3B2F",
+                         "Bytes":  145938396,
                          "Mandatory":  false
                      }
                  ]
